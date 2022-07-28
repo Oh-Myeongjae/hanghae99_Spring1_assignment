@@ -1,7 +1,4 @@
 # hanghae99_Spring1_assignment
 ### 항해99 8기 spring 입문주 과제제출 입니다.
 
--스프링 부트로 로그인 기능이 없는 나만의 항해 블로그 백엔드 서버-
-
-
-요구사항 체크 필수
+![유스케이스](https://user-images.githubusercontent.com/74406343/181491679-bdcc2980-00d2-4e2b-b24c-096d4369785d.PNG)
